@@ -1,3 +1,3 @@
 # php-blog-krizik
 
-Repozitář pro výuku gitu ve škole VOŠ a SPŠE Františka Křižíka. Obsah repozitář je nepodstatný.
+Repozitář pro výuku gitu ve škole VOŠ a SPŠE Františka Křižíka.
